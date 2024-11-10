@@ -25,17 +25,21 @@
 - **Other Resources**
   - [**My Notes from PFI**]()
   - [**Politics for India**](https://politicsforindia.com/)
+  - [**PSIR Analytica**](https://www.insightsonindia.com/psir-analytica/)
 
 ---
 
 ### General Studies
 
-- [**Job Experience**](https://docs.google.com/document/d/1k6xopaUG0aMFabyK-1QmGig68PfaT0sBQ9c_tKJxdXc/edit?tab=t.0#heading=h.fln5w7va4oqp)
-- [**HLD**](https://docs.google.com/document/d/1-g_qHfZL0u5w52yTHtgpAx-fSG-yQsaLD0h4oOT0H6w/edit?tab=t.0)
-- [**LLD**](https://docs.google.com/document/d/1PPkqiZ-ZwHbekSTzLsXLBkUzPRn9wauZF0tXvhRdJVY/edit?tab=t.0)
-- [**DSA**](https://docs.google.com/document/d/1s2_hZvN2Rb-qfTUottaZFQdtqQzsIOD6fL6DiPjlYiA/edit?tab=t.0)
+- [**Quick Access All Notes**](https://docs.google.com/document/d/1R2EGeZXJleMdYfMCcpE_Hs-xeuWt9gQJnP_JCkGwT08/edit?tab=t.0)
+- [**Prelims Analysis**](https://docs.google.com/document/d/1_-Mk6DrbUBTuWuJMzIVmZaoRuGMpvL7MsfPWSo4s9tY/edit?tab=t.0#heading=h.2otldzxgq5ox)
+- [**Search Doc based on Requirements**](https://docs.google.com/document/u/0/)
 - [**History Notes**]()
 - [**PYQ Prelims**](https://educationprovince.com/upsc-prelims-previous-year-questions-topic-wise/)
 - [**PYQ Mains**](https://educationprovince.com/upsc-mains-topic-wise-questions/)
+- **Other Resources**
+  - [**Understand UPSC**](https://www.understandupsc.com/)
+  - [**Politics for India**](https://politicsforindia.com/)
+  - [**Dr. Shivin**](https://onedrive.live.com/?id=32B3065D74705B74%2115209&cid=32B3065D74705B74)
 
 ---
