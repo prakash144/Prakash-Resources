@@ -2,14 +2,6 @@
 
 <img height="300" src="img.png" width="1000"/>
 
-## Quick Access Links
-- [Contents](#table-of-contents)
-- [System Design](#system-design)
-- [DSA](#data-structure--algorithms)
-- [Interview Docs](#interview-notes--google-docs)
-- [How to use Make file](#how-to-use-the-makefile)
-
-
 ---
 
 ## Table of Contents
