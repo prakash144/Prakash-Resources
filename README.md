@@ -6,6 +6,8 @@
 
 ## Table of Contents
 
+- [**WEB Notes**](https://prakash144.github.io/Prakash-Resources/)
+
 ### Political Science & International Relation
 
 - [**PSIR Index Doc**](https://docs.google.com/document/d/1LqIcUt0nw9mdsQ4G5cRGtHLlKIYhq6lGu5WT1-MN8Ek/edit?tab=t.0)
